@@ -1,0 +1,32 @@
+ .swiper-container {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+ }
+
+ .swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 200px;
+  height: 245px;
+  box-shadow: 0 0 10px #ff9100 ;
+ }
+ .imgbx {
+  background-position: center;
+  background-size: cover;
+  width: 200px;
+  height: 200px;
+ }
+
+ .details {
+  background: white;
+  color: #003545;
+  text-align: center;
+  height: 45px;
+ }
+
+ a {
+  color: #003545;
+ }
+
+ 
